@@ -22,6 +22,37 @@
     margin: 40px;
 }
 
+.containerfootercom{
+    width: 97%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
 
+.contabod{
+    display: flex;
+}
 
+.colum1{
+max-width: 400 px;
+}
 
+.ro{
+margin-top: 20px;
+display: flex;
+}
+
+.footer{
+    width: 218%;
+    background: #333333;
+    color:white;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;  
+}
+.archi{
+    position: relative;
+    left: 25%;
+}
+
+ 
